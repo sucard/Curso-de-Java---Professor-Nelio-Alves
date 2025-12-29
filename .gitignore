@@ -1,0 +1,13 @@
+# ===== Java =====
+*.class
+*.log
+
+# ===== Eclipse =====
+.project
+.classpath
+.settings/
+bin/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
