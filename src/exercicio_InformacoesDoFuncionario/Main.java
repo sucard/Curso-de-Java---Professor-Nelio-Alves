@@ -1,4 +1,4 @@
-package exercicio04;
+package exercicio_InformacoesDoFuncionario;
 
 import java.util.Scanner;
 import java.util.Locale;

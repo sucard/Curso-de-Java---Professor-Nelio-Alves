@@ -1,4 +1,4 @@
-package exercicio03;
+package exercicio_DiferencaDosValores;
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,4 @@
-package exercicio6;
+package exercicio_Areas;
 
 import java.util.Scanner;
 import java.util.Locale;

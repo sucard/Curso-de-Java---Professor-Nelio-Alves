@@ -1,4 +1,4 @@
-package exercicio05;
+package exercicio_SomaDeProdutos;
 import java.util.Scanner;
 import java.util.Locale;
 

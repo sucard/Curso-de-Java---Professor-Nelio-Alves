@@ -1,4 +1,4 @@
-package exercicio01;
+package exercicio_SomadeValores;
 import java.util.Scanner;
 
 public class Main {

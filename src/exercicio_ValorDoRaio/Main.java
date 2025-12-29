@@ -1,4 +1,4 @@
-package exercicio02;
+package exercicio_ValorDoRaio;
 import java.util.Scanner;
 import java.util.Locale;
 
