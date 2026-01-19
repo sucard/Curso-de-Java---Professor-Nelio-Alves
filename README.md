@@ -5,7 +5,8 @@ Repositório com exercícios desenvolvidos durante o curso **Java Completo** da 
 ## Conteúdo estudado até o momento
 
 - Estrutura Sequencial  
-- Estrutura Condicional  
+- Estrutura Condicional
+- Estrutura Repetitiva  
 
 ## Como rodar os exercícios
 
