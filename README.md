@@ -4,10 +4,8 @@ Repositório com exercícios desenvolvidos durante o curso **Java Completo** da 
 
 ## Conteúdo estudado até o momento
 
-- Hello World
-- Entrada e saída de dados
-- Operações matemáticas
-- Expressões lógicas
+- Estrutura Sequencial  
+- Estrutura Condicional  
 
 ## Como rodar os exercícios
 
