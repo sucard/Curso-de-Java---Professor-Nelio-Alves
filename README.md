@@ -6,8 +6,13 @@ Repositório com exercícios desenvolvidos durante o curso **Java Completo** da 
 
 - Estrutura Sequencial  
 - Estrutura Condicional
-- Estrutura Repetitiva  
-
+- Estrutura Repetitiva 
+- Introdução à Programação Orientada a Objetos (POO)
+    - Classes e atributos;
+    - Métodos;
+    - Instanciação e memória (Stack e Heap)
+    - ToString()
+    
 ## Como rodar os exercícios
 
 Abra a classe desejada no Eclipse e execute:
