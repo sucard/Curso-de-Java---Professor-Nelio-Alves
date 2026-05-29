@@ -11,9 +11,8 @@ public class CalculoItens {
 		Scanner sc = new Scanner (System.in);
 		
 		
-		String item;
-		double preco;
-		int codigo;
+		String item = "";
+		double preco = 0.0;
 		int quantidade;
 		
 		System.out.println("Selecione o item desejado:");
@@ -22,7 +21,7 @@ public class CalculoItens {
 		System.out.println("3 - X-Bacon");
 		System.out.println("4 - Torrada Simples");
 		System.out.println("5 - Refrigerante");
-		codigo = sc.nextInt();
+		int codigo = sc.nextInt();
 		
 		System.out.println("Selecione a quantidade desejada:");
 		quantidade = sc.nextInt();
@@ -50,8 +49,6 @@ public class CalculoItens {
 		}
 		else {
 			System.out.println("Código invalido!");
-			sc.close();
-			return;
 		}
 				
 		double calculo = preco * quantidade;
@@ -60,6 +57,7 @@ public class CalculoItens {
 		System.out.println("Item Selecionado: " + item);
 		System.out.printf("Valor Total: R$ %.2f%n ",  calculo);
 
+		sc.close();
 		
 	}
 
