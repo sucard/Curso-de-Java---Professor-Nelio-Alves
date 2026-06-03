@@ -12,6 +12,7 @@ Repositório com exercícios desenvolvidos durante o curso **Java Completo** da 
     - Métodos;
     - Instanciação e memória (Stack e Heap)
     - ToString()
+- Membros estáticos    
     
 ## Como rodar os exercícios
 
